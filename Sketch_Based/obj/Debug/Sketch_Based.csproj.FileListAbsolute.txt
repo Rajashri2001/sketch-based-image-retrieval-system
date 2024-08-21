@@ -1,0 +1,1101 @@
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\Sketch_Based.exe.config
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\Sketch_Based.exe
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\Sketch_Based.pdb
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\netstandard.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.AppContext.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Collections.Concurrent.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Collections.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Collections.NonGeneric.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Collections.Specialized.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.ComponentModel.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Console.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Data.Common.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Diagnostics.Debug.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Diagnostics.Process.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Diagnostics.Tools.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Drawing.Primitives.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Dynamic.Runtime.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Globalization.Calendars.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Globalization.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Globalization.Extensions.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.IO.Compression.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.IO.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.IO.FileSystem.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.IO.Pipes.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Linq.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Linq.Expressions.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Linq.Parallel.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Linq.Queryable.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Net.Http.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Net.NameResolution.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Net.NetworkInformation.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Net.Ping.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Net.Primitives.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Net.Requests.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Net.Security.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Net.Sockets.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Net.WebSockets.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.ObjectModel.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Reflection.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Reflection.Extensions.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Reflection.Primitives.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Resources.Reader.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Resources.ResourceManager.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Resources.Writer.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Runtime.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Runtime.Extensions.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Runtime.Handles.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Runtime.InteropServices.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Runtime.Numerics.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Security.Claims.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Security.Principal.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Security.SecureString.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Text.Encoding.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Text.RegularExpressions.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Threading.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Threading.Overlapped.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Threading.Tasks.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Threading.Thread.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Threading.ThreadPool.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Threading.Timer.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.ValueTuple.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Xml.XDocument.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Xml.XmlDocument.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Xml.XPath.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\Firebase.Auth.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\Firebase.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\Firebase.Storage.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\obj\Debug\Sketch_Based.csprojAssemblyReference.cache
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\obj\Debug\Sketch_Based.exe.config
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\obj\Debug\Sketch_Based.Criminal_reg.resources
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\obj\Debug\Sketch_Based.Splash.resources
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\obj\Debug\Sketch_Based.Properties.Resources.resources
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\obj\Debug\Sketch_Based.csproj.GenerateResource.cache
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\obj\Debug\Sketch_Based.csproj.CoreCompileInputs.cache
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\obj\Debug\Sketch_Based.csproj.CopyComplete
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\obj\Debug\Sketch_Based.exe
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\obj\Debug\Sketch_Based.pdb
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\Newtonsoft.Json.dll
+D:\Roshni_22-23\Projects_22-23\Sketch_Based\Sketch_Based\bin\Debug\Newtonsoft.Json.xml
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\obj\Debug\Sketch_Based.csprojAssemblyReference.cache
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\obj\Debug\Sketch_Based.exe.config
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\obj\Debug\Sketch_Based.Criminal_reg.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\obj\Debug\Sketch_Based.Criminal_reg2.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\obj\Debug\Sketch_Based.Splash.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\obj\Debug\Sketch_Based.Properties.Resources.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\obj\Debug\Sketch_Based.csproj.GenerateResource.cache
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\obj\Debug\Sketch_Based.csproj.CoreCompileInputs.cache
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\DlibDotNetNative.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\DlibDotNetNativeDnn.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\netstandard.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.AppContext.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Collections.Concurrent.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Collections.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Collections.NonGeneric.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Collections.Specialized.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.ComponentModel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Console.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Data.Common.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Diagnostics.Debug.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Diagnostics.Process.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Diagnostics.Tools.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Drawing.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Dynamic.Runtime.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Globalization.Calendars.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Globalization.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Globalization.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.IO.Compression.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.IO.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.IO.FileSystem.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.IO.Pipes.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Linq.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Linq.Expressions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Linq.Parallel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Linq.Queryable.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Net.Http.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Net.NameResolution.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Net.NetworkInformation.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Net.Ping.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Net.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Net.Requests.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Net.Security.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Net.Sockets.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Net.WebSockets.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.ObjectModel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Reflection.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Reflection.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Reflection.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Resources.Reader.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Resources.ResourceManager.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Resources.Writer.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Runtime.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Runtime.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Runtime.Handles.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Runtime.InteropServices.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Runtime.Numerics.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Security.Claims.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Security.Principal.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Security.SecureString.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Text.Encoding.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Text.RegularExpressions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Threading.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Threading.Overlapped.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Threading.Tasks.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Threading.Thread.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Threading.ThreadPool.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Threading.Timer.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.ValueTuple.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Xml.XDocument.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Xml.XmlDocument.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Xml.XPath.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\Firebase.Auth.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\Firebase.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\Firebase.Storage.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\Newtonsoft.Json.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\System.Drawing.Common.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\Newtonsoft.Json.xml
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\obj\Debug\Sketch_Based.csproj.CopyComplete
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\obj\Debug\Sketch_Based.exe
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\obj\Debug\Sketch_Based.pdb
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\Sketch_Based.exe.config
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\Sketch_Based.exe
+D:\Roshni_22-23\Proj_Module\Sketch_Based\Sketch_Based\bin\Debug\Sketch_Based.pdb
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\DlibDotNetNative.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\DlibDotNetNativeDnn.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\Sketch_Based.exe.config
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\Sketch_Based.exe
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\Sketch_Based.pdb
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\netstandard.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.AppContext.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.Concurrent.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.NonGeneric.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.Specialized.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Console.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Data.Common.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Debug.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Process.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Tools.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Drawing.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Dynamic.Runtime.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Globalization.Calendars.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Globalization.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Globalization.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.Compression.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.Pipes.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.Expressions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.Parallel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.Queryable.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Http.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.NameResolution.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.NetworkInformation.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Ping.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Requests.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Security.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Sockets.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.WebSockets.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ObjectModel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Reflection.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Reflection.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Reflection.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Resources.Reader.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Resources.ResourceManager.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Resources.Writer.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Handles.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.InteropServices.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Numerics.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Claims.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Principal.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.SecureString.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Text.Encoding.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Text.RegularExpressions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Overlapped.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Tasks.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Thread.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.ThreadPool.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Timer.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ValueTuple.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XDocument.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XmlDocument.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XPath.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\Newtonsoft.Json.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Drawing.Common.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\Newtonsoft.Json.xml
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csprojAssemblyReference.cache
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.exe.config
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.Splash.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.Properties.Resources.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csproj.GenerateResource.cache
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csproj.CoreCompileInputs.cache
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csproj.CopyComplete
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.exe
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.pdb
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmCriminalHistory.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmSelect.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmFaceRetrive.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.CriminalControl.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmRegistration.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmDashboard.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmMakeSketch.resources
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\DlibDotNetNative.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\DlibDotNetNativeDnn.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\Sketch_Based.exe.config
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\Sketch_Based.exe
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\Sketch_Based.pdb
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\netstandard.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.AppContext.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.Concurrent.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.NonGeneric.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.Specialized.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.Primitives.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Console.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Data.Common.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Contracts.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Debug.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Process.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Tools.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Tracing.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Drawing.Primitives.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Dynamic.Runtime.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Globalization.Calendars.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Globalization.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Globalization.Extensions.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.Compression.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.IsolatedStorage.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.Pipes.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.Expressions.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.Parallel.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.Queryable.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Http.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.NameResolution.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.NetworkInformation.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Ping.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Primitives.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Requests.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Security.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Sockets.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.WebSockets.Client.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.WebSockets.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ObjectModel.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Reflection.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Reflection.Extensions.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Reflection.Primitives.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Resources.Reader.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Resources.ResourceManager.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Resources.Writer.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Extensions.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Handles.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.InteropServices.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Numerics.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Claims.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Principal.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.SecureString.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Text.Encoding.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Text.RegularExpressions.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Overlapped.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Tasks.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Thread.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.ThreadPool.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Timer.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ValueTuple.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.ReaderWriter.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XDocument.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XmlDocument.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XmlSerializer.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XPath.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\Newtonsoft.Json.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Drawing.Common.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\Newtonsoft.Json.xml
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csprojAssemblyReference.cache
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.exe.config
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.CriminalControl.resources
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmMakeSketch.resources
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmRegistration.resources
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmDashboard.resources
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmCriminalHistory.resources
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmFaceRetrive.resources
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmSelect.resources
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.Splash.resources
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.Properties.Resources.resources
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csproj.GenerateResource.cache
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csproj.CoreCompileInputs.cache
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csproj.CopyComplete
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.exe
+D:\proj22-23\c#\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.pdb
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csprojAssemblyReference.cache
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.exe.config
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.CriminalControl.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmDetectFace.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmMakeSketch.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmRegister.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmRegistration.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmDashboard.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmFaceRetrive.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.Splash.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.Properties.Resources.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csproj.GenerateResource.cache
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csproj.CoreCompileInputs.cache
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.exe
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.pdb
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\DlibDotNetNative.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\DlibDotNetNativeDnn.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\Sketch_Based.exe.config
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\Sketch_Based.exe
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\Sketch_Based.pdb
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\netstandard.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.AppContext.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.Concurrent.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.NonGeneric.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.Specialized.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Console.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Data.Common.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Debug.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Process.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Tools.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Drawing.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Dynamic.Runtime.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Globalization.Calendars.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Globalization.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Globalization.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.Compression.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.Pipes.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.Expressions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.Parallel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.Queryable.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Http.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.NameResolution.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.NetworkInformation.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Ping.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Requests.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Security.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Sockets.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.WebSockets.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ObjectModel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Reflection.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Reflection.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Reflection.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Resources.Reader.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Resources.ResourceManager.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Resources.Writer.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Handles.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.InteropServices.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Numerics.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Claims.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Principal.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.SecureString.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Text.Encoding.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Text.RegularExpressions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Overlapped.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Tasks.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Thread.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.ThreadPool.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Timer.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ValueTuple.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XDocument.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XmlDocument.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XPath.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\Newtonsoft.Json.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Drawing.Common.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\Newtonsoft.Json.xml
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csproj.CopyComplete
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmAdminLogin.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmCriminalHistoryRetrive.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmCriminalHistoryGrid.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csprojAssemblyReference.cache
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.exe.config
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.CriminalControl.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmAdminLogin.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmCriminalHistoryRetrive.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmDetectFace.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmMakeSketch.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmRegister.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmRegistration.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmDashboard.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmCriminalHistoryGrid.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmFaceRetrive.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.Splash.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.Properties.Resources.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csproj.GenerateResource.cache
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csproj.CoreCompileInputs.cache
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.exe
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.pdb
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\DlibDotNetNative.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\DlibDotNetNativeDnn.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\Sketch_Based.exe.config
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\Sketch_Based.exe
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\Sketch_Based.pdb
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\netstandard.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.AppContext.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.Concurrent.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.NonGeneric.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.Specialized.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Console.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Data.Common.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Debug.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Process.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Tools.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Drawing.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Dynamic.Runtime.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Globalization.Calendars.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Globalization.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Globalization.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.Compression.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.Pipes.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.Expressions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.Parallel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.Queryable.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Http.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.NameResolution.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.NetworkInformation.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Ping.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Requests.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Security.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Sockets.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.WebSockets.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ObjectModel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Reflection.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Reflection.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Reflection.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Resources.Reader.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Resources.ResourceManager.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Resources.Writer.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Handles.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.InteropServices.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Numerics.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Claims.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Principal.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.SecureString.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Text.Encoding.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Text.RegularExpressions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Overlapped.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Tasks.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Thread.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.ThreadPool.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Timer.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ValueTuple.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XDocument.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XmlDocument.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XPath.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\Newtonsoft.Json.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Drawing.Common.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\Newtonsoft.Json.xml
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csproj.CopyComplete
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmCriminalRegistration.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\DlibDotNetNative.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\DlibDotNetNativeDnn.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\Sketch_Based.exe.config
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\Sketch_Based.exe
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\Sketch_Based.pdb
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\netstandard.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.AppContext.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.Concurrent.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.NonGeneric.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.Specialized.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Console.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Data.Common.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Debug.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Process.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Tools.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Drawing.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Dynamic.Runtime.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Globalization.Calendars.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Globalization.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Globalization.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.Compression.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.Pipes.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.Expressions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.Parallel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.Queryable.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Http.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.NameResolution.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.NetworkInformation.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Ping.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Requests.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Security.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Sockets.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.WebSockets.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ObjectModel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Reflection.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Reflection.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Reflection.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Resources.Reader.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Resources.ResourceManager.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Resources.Writer.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Handles.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.InteropServices.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Numerics.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Claims.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Principal.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.SecureString.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Text.Encoding.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Text.RegularExpressions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Overlapped.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Tasks.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Thread.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.ThreadPool.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Timer.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ValueTuple.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XDocument.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XmlDocument.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XPath.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\Newtonsoft.Json.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Drawing.Common.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\Newtonsoft.Json.xml
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csprojAssemblyReference.cache
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.exe.config
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.CriminalControl.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmAdminLogin.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmCriminalHistoryRetrive.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmCriminalRegistration.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmDetectFace.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmMakeSketch.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmRegister.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmRegistration.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmDashboard.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmCriminalHistoryGrid.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmFaceRetrive.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.Splash.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.Properties.Resources.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csproj.GenerateResource.cache
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csproj.CoreCompileInputs.cache
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csproj.CopyComplete
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.exe
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _GES - Copy\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.pdb
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csprojAssemblyReference.cache
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.exe.config
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.CriminalControl.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmAdminLogin.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmCriminalHistoryRetrive.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmCriminalRegistration.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmMakeSketch.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmRegistration.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmDashboard.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmCriminalHistoryGrid.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.FrmFaceRetrive.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.Splash.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.Properties.Resources.resources
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csproj.GenerateResource.cache
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csproj.CoreCompileInputs.cache
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.exe
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.pdb
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\DlibDotNetNative.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\DlibDotNetNativeDnn.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\Sketch_Based.exe.config
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\Sketch_Based.exe
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\Sketch_Based.pdb
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\netstandard.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.AppContext.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.Concurrent.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.NonGeneric.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Collections.Specialized.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Console.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Data.Common.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Debug.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Process.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Tools.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Drawing.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Dynamic.Runtime.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Globalization.Calendars.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Globalization.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Globalization.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.Compression.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.Pipes.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.Expressions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.Parallel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Linq.Queryable.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Http.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.NameResolution.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.NetworkInformation.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Ping.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Requests.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Security.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.Sockets.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Net.WebSockets.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ObjectModel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Reflection.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Reflection.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Reflection.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Resources.Reader.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Resources.ResourceManager.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Resources.Writer.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Handles.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.InteropServices.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Numerics.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Claims.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.Principal.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Security.SecureString.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Text.Encoding.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Text.RegularExpressions.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Overlapped.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Tasks.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Thread.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.ThreadPool.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Threading.Timer.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.ValueTuple.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XDocument.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XmlDocument.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XPath.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\Newtonsoft.Json.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Drawing.Common.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\Newtonsoft.Json.xml
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Roshni_22-23\Proj_Module\Sketch_Based_M2_v4 _SITRC\Sketch_Based_M2\Sketch_Based\obj\Debug\Sketch_Based.csproj.CopyComplete
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\DlibDotNetNative.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\DlibDotNetNativeDnn.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\Sketch_Based.exe.config
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\Sketch_Based.exe
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\Sketch_Based.pdb
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\netstandard.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.AppContext.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Collections.Concurrent.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Collections.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Collections.NonGeneric.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Collections.Specialized.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.ComponentModel.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.ComponentModel.Primitives.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Console.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Data.Common.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Diagnostics.Contracts.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Diagnostics.Debug.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Diagnostics.Process.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Diagnostics.Tools.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Diagnostics.Tracing.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Drawing.Primitives.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Dynamic.Runtime.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Globalization.Calendars.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Globalization.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Globalization.Extensions.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.IO.Compression.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.IO.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.IO.FileSystem.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.IO.IsolatedStorage.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.IO.Pipes.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Linq.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Linq.Expressions.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Linq.Parallel.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Linq.Queryable.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Net.Http.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Net.NameResolution.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Net.NetworkInformation.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Net.Ping.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Net.Primitives.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Net.Requests.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Net.Security.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Net.Sockets.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Net.WebSockets.Client.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Net.WebSockets.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.ObjectModel.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Reflection.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Reflection.Extensions.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Reflection.Primitives.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Resources.Reader.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Resources.ResourceManager.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Resources.Writer.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Runtime.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Runtime.Extensions.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Runtime.Handles.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Runtime.InteropServices.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Runtime.Numerics.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Security.Claims.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Security.Principal.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Security.SecureString.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Text.Encoding.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Text.RegularExpressions.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Threading.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Threading.Overlapped.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Threading.Tasks.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Threading.Thread.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Threading.ThreadPool.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Threading.Timer.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.ValueTuple.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Xml.ReaderWriter.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Xml.XDocument.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Xml.XmlDocument.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Xml.XmlSerializer.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Xml.XPath.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\Newtonsoft.Json.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Drawing.Common.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\Newtonsoft.Json.xml
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\obj\Debug\Sketch_Based.csprojAssemblyReference.cache
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\obj\Debug\Sketch_Based.exe.config
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\obj\Debug\Sketch_Based.CriminalControl.resources
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\obj\Debug\Sketch_Based.FrmAdminLogin.resources
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\obj\Debug\Sketch_Based.FrmCriminalHistoryRetrive.resources
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\obj\Debug\Sketch_Based.FrmCriminalRegistration.resources
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\obj\Debug\Sketch_Based.FrmMakeSketch.resources
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\obj\Debug\Sketch_Based.FrmRegistration.resources
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\obj\Debug\Sketch_Based.FrmDashboard.resources
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\obj\Debug\Sketch_Based.FrmCriminalHistoryGrid.resources
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\obj\Debug\Sketch_Based.FrmFaceRetrive.resources
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\obj\Debug\Sketch_Based.Splash.resources
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\obj\Debug\Sketch_Based.Properties.Resources.resources
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\obj\Debug\Sketch_Based.csproj.GenerateResource.cache
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\obj\Debug\Sketch_Based.csproj.CoreCompileInputs.cache
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\obj\Debug\Sketch_Based.csproj.CopyComplete
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\obj\Debug\Sketch_Based.exe
+D:\proj22-23\c#\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M2_v6 _SITRC\Sketch_Based_M6\Sketch_Based\obj\Debug\Sketch_Based.pdb
